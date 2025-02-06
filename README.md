@@ -15,7 +15,7 @@ Restore the NuGet packages required for the project
 
 ## Apply Migrations
 Apply the Entity Framework Core migrations to set up the database schema.
-`dotnet ef database update --project ComponentTestDemo`
+`dotnet ef database update --project ComponentTestDemo.Api`
 
 ## Build the Project
 Build the project to ensure all dependencies are correctly set up
