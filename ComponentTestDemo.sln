@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentTestDemo.Api", "ComponentTestDemo\ComponentTestDemo.Api.csproj", "{82BC0FEF-ACA6-4E9D-B45E-50BC2E27AA07}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentTestDemo.Api", "ComponentTestDemo.Api\ComponentTestDemo.Api.csproj", "{82BC0FEF-ACA6-4E9D-B45E-50BC2E27AA07}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ComponentTestDemo.Test", "ComponentTestDemo.Test\ComponentTestDemo.Test.fsproj", "{A1BFE474-1C72-4222-84A9-DFF86F02E332}"
 EndProject
