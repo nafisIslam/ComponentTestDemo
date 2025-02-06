@@ -1,0 +1,6 @@
+@ComponentTestDemo_HostAddress = http://localhost:5279
+
+GET {{ComponentTestDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
